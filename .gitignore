@@ -7,6 +7,7 @@ __pycache__/
 dist/
 build/
 *.egg-info/
+AGENTS.md
 
 # Generated experiment outputs can become large or sensitive.
 data/responses/*

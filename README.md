@@ -1,13 +1,13 @@
 # BASTION-Bench
 
-Benchmark bilingue EN/ES para evaluar trade-offs entre seguridad y utilidad en modelos LLM open-weight.
+BASTION-Bench is a bilingual EN/ES benchmark for evaluating safety-utility trade-offs in open-weight LLMs.
 
-El proyecto distingue dos bloques:
+The project is organized around two benchmark blocks:
 
-- **Operational Instructions**: tareas tecnicas legitimas, sensibles o dual-use.
-- **Normative Instructions**: riesgos de dano, sesgo, desinformacion, discriminacion, privacidad y abuso.
+- **Operational Instructions**: legitimate, sensitive, or dual-use technical tasks.
+- **Normative Instructions**: risks involving harm, misinformation, bias, discrimination, privacy, and abuse.
 
-La fuente de planificacion esta fuera de este repo tecnico, en `../knowledge/01_Project/BASTION_Bench_TFG_plan_contexto.md`.
+The research planning notes live outside this technical repository.
 
 ## Planned CLI
 
