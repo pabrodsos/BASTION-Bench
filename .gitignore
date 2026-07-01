@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+dist/
+build/
+*.egg-info/
+
+# Generated experiment outputs can become large or sensitive.
+data/responses/*
+data/scores/*
+data/redacted/*
+reports/figures/*
+reports/tables/*
+reports/examples/*
+
+!.gitkeep
